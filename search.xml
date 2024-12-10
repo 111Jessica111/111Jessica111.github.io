@@ -8,7 +8,7 @@
       <link href="/2024/12/07/Mobile/Start%20Guide/"/>
       <url>/2024/12/07/Mobile/Start%20Guide/</url>
       
-        <content type="html"><![CDATA[<h2 id="Hello-Mobile"><a href="#Hello-Mobile" class="headerlink" title="Hello Mobile"></a>Hello Mobile</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;Hello world&quot;</span>);</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h2 id="Hello-Mobile"><a href="#Hello-Mobile" class="headerlink" title="Hello Mobile"></a>Hello Mobile</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;Hello world&quot;</span>);</span><br></pre></td></tr></table></figure><p>$x^2$</p>]]></content>
       
       
       <categories>
